@@ -38,5 +38,5 @@ L'infrastruttura si articola su tre livelli funzionali:
 ### 1. Download del Codice
 Per scaricare il repository locale, eseguire il comando:
 ```bash
-git clone [https://github.com/m1ke14/readingcourse.git](https://github.com/m1ke14/readingcourse.git)
-cd readingcourse
+git clone [https://github.com/m1ke14/MicroPython-Edge-Fog-System.git](git@github.com:M1ke14/MicroPython-Edge-Fog-System.git)
+cd MicroPython-Edge-Fog-System
